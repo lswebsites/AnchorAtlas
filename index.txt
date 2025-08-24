@@ -20,5 +20,5 @@ b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"
 e:null
 12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 d:null
-16:{"metadata":[["$","title","0",{"children":"AnchorAtlas"}],["$","meta","1",{"name":"description","content":"Find marinas across the UK"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+16:{"metadata":[["$","title","0",{"children":"AnchorAtlas"}],["$","meta","1",{"name":"description","content":"Find marinas across the UK"}],["$","link","2",{"rel":"icon","href":"/AnchorAtlas/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
 10:{"metadata":"$16:metadata","error":null,"digest":"$undefined"}

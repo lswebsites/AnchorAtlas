@@ -20,5 +20,5 @@ e:I[7194,[],"ViewportBoundary"]
 b:null
 f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 a:null
-13:{"metadata":[["$","title","0",{"children":"AnchorAtlas"}],["$","meta","1",{"name":"description","content":"Find marinas across the UK"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+13:{"metadata":[["$","title","0",{"children":"AnchorAtlas"}],["$","meta","1",{"name":"description","content":"Find marinas across the UK"}],["$","link","2",{"rel":"icon","href":"/AnchorAtlas/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
 d:{"metadata":"$13:metadata","error":null,"digest":"$undefined"}
